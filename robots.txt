@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://engr-ramjan-ali.github.io/sitemap.xml
